@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">玩Android</string>
+    <string name="home">首页</string>
+    <string name="system">知识体系</string>
+    <string name="chapter">公众号</string>
+    <string name="project">项目</string>
+
+    <string name="login">登&#160;&#160;录</string>
+    <string name="register">注&#160;&#160;册</string>
+    <string name="login_success">登录成功!</string>
+    <string name="register_success">注册成功!</string>
+    <string name="username_not_empty">用户名不能为空</string>
+    <string name="password_not_empty">"密码不能为空</string>
+    <string name="collect_success">收藏成功</string>
+    <string name="uncollect_success">取消收藏</string>
+    <string name="navigation_drawer_open">打开</string>
+    <string name="navigation_drawer_close">关闭</string>
+    <string name="isLoging">登录中&#8230;</string>
+    <string name="isRegistering">注册中&#8230;</string>
+    <string name="collect_article">我的收藏</string>
+    <string name="favorite_web">喜欢的网站</string>
+    <string name="about_us">关于我们</string>
+    <string name="version_format">%1$s\n%2$s</string>
+    <string name="exit">退出登录</string>
+    <string name="search">搜索</string>
+    <string name="search_keyword">关键词</string>
+    <string name="hot_search">大家都在搜</string>
+    <string name="web_search">常用网站</string>
+    <string name="share">分享</string>
+    <string name="collect">收藏</string>
+    <string name="open_in_browser">用浏览器打开</string>
+
+</resources>
